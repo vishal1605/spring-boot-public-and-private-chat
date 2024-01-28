@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat App</title>
+    <link rel="stylesheet" th:href="@{/css/index.css}">
+</head>
+
+<body>
+    <div class="full-container">
+        <form onsubmit="connectionForm(event)" style="margin-bottom: 10px;">
+            <input type="text" name="user" id="user-connected">
+            <button>connected</button>
+        </form>
+        <div class="container">
+            <div class="message-area-userlist">
+                <div class="private-user-list">
+                    <ul id="connected-user-list">
+                        <!-- <li><a href="#">
+                                <h5>Vishal</h5>
+                            </a></li>
+                        <li><a href="#">
+                                <h5>Sahil</h5>
+                            </a></li>
+                        <li><a href="#">
+                                <h5>Nitesh</h5>
+                            </a></li> -->
+                    </ul>
+
+                </div>
+                <div class="message-box-area">
+                    <div class="message-head">
+                        <h3 id="chat-type" data-chat-type="GROUP">Group</h3>
+                    </div>
+                    <div class="message-area" id="main-msg-area">
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="message-input-div">
+                <form onsubmit="sendMessage(event)">
+                    <input type="text" name="message" id="">
+                    <button>Send</button>
+                </form>
+                <!-- <input type="file" name="" id=""> -->
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.1.4/sockjs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script>
+    <script th:src="@{/js/index.js}"></script>
+</body>
+
+</html>
