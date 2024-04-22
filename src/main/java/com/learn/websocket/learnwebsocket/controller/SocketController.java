@@ -42,6 +42,12 @@ public class SocketController {
         return mv;
     }
 
+    @GetMapping("/home")
+    public String homeTwo() {
+        
+        return "Or Bhai its Working";
+    }
+
     @MessageMapping("/connected")
     @SendTo("/all/connected")
     public CustomMessage addUser(@Payload CustomMessage chatMessage,
