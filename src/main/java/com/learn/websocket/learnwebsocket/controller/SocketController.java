@@ -139,6 +139,23 @@ public class SocketController {
         }
 
     }
+
+    @GetMapping("/fake-json-data")
+    public String fakeJsonData() {
+        final String uri = "https://jsonplaceholder.typicode.com/users";
+        Map<String, Object> map = new HashMap<>();
+        RestTemplate restTemplate = new RestTemplate();
+        String result = restTemplate.getForObject(uri, String.class);
+
+        try {
+            System.out.println(result);
+            return result;
+        } catch (Exception e) {
+            System.err.println(e.getMessage());
+            return e.getMessage();
+        }
+
+    }
 //////////////////////////////////////////////////////////DUMMY URL/////////////////////////////////////////////////////////
     
     
