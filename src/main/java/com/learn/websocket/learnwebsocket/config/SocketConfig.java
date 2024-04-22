@@ -13,7 +13,9 @@ public class SocketConfig implements WebSocketMessageBrokerConfigurer {
     @Override
     public void registerStompEndpoints(StompEndpointRegistry registry){
         // End point "/my-app" is for user use for connect websocket with this sepecific app
-        registry.addEndpoint("/my-app").withSockJS();
+        registry.addEndpoint("/my-app")
+        .setAllowedOrigins("http://localhost:8080")
+        .withSockJS();
     }
 
     public void configureMessageBroker(MessageBrokerRegistry registry){

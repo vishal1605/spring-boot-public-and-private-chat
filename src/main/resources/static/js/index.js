@@ -173,5 +173,16 @@ function privateUserClicked(event) {
     chatType.innerText = event.target.textContent.trim('')
 }
 
+function hitUrl(e){
+    fetch('/dummy-url-save').then(d=>d.json()).then(data=>{
+        console.log(data)
+    })
+}
+function hitUrlRead(e){
+    fetch('/dummy-url-read').then(d=>d.json()).then(data=>{
+        console.log(data)
+    })
+}
+
 
 // setInterval(()=>connect(),10000)
