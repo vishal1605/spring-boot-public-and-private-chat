@@ -1,1 +1,19 @@
+name: java CI
 
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  test:
+    runs-on: self-hosted
+    steps:
+      - name: Get the code in remote server
+        uses: actions/checkout@v3
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin' # See 'Supported distributions' for available options
+          java-version: '21'
+      # - name: Build with Maven
+      #   run: mvn clean install
