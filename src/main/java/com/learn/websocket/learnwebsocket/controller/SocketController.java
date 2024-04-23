@@ -125,7 +125,7 @@ public class SocketController {
 
     @GetMapping("/dummy-url-read")
     public String dummyUrlRead() {
-        final String uri = "http://127.0.0.1:3000/dummy-url-read";
+        final String uri = "https://bd22-2409-40c0-1028-e267-24ae-3184-e189-8ebe.ngrok-free.app/dummy-url-read";
         Map<String, Object> map = new HashMap<>();
         RestTemplate restTemplate = new RestTemplate();
         String result = restTemplate.getForObject(uri, String.class);
