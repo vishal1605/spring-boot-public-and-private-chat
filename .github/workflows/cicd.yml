@@ -25,4 +25,4 @@ jobs:
             echo "Stopping existing instance of the application..."
             sudo kill -9 $existing_pid
           fi
-          java -jar /home/ubuntu/actions-runner/_work/spring-boot-public-and-private-chat/spring-boot-public-and-private-chat/target/learn-websocket-0.0.1-SNAPSHOT.jar
+          sudo java -jar /home/ubuntu/actions-runner/_work/spring-boot-public-and-private-chat/spring-boot-public-and-private-chat/target/learn-websocket-0.0.1-SNAPSHOT.jar
