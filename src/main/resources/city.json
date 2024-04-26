@@ -1,0 +1,1003 @@
+[
+    {
+        "city": "Mumbai",
+        "sub_region": [
+            "Kalyan", "Thane", "Ulhasnagar", "Navi Mumbai", "Western Mumbai"
+        ],
+        "theaters":[
+            {
+                "theater_name": "Movietime Cubic Mall: Chembur",
+                "address": "Old Basant Cinema, Wadavali Village, Vasant Vihar Complex Road, Vasant Vihar Complex, Chembur, Mumbai, Maharashtra 400074, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "BMX Cinemas (Balaji Movieplex): Koparkhairane",
+                "address": "Bonkode Road, Near Railway Station,Sector 8, RS Regency Road, Kopar Khairane, Navi Mumbai, Maharashtra 400709, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Cinepolis: VIP Viviana Mall, Thane",
+                "address": "Viviana Mall, Eastern Express Highway, Laxmi Nagar, Thane (West), Beside Jupiter Hospital, Thane, Maharashtra 400606, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Bharat Cineplex: Kurla (W)",
+                "address": "Station Road, Kurla West, Mumbai, Maharashtra 400070, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Chitra Cinema: Dadar (Newly Renovated)",
+                "address": "198, Dr. Baba Saheb Ambedkar Road, Dadar East, Mumbai, Maharashtra 400014, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "city": "Delhi-NCR",
+        "sub_region": [ "Delhi", "Gurugram (Gurgaon)", "Noida", "Ghaziabad", "Kundli", "Greater Noida", "Faridabad", "Pilkhuwa" ],
+        "theaters":[
+            {
+                "theater_name": "Delhi: PVR Director`s Cut, Ambience Mall",
+                "address": "Ambience Mall, Vasant Phase-2, Nelson Mandela Road, Vasant Kunj, Near Lifestyle Showroom, Delhi, NCR 110070, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Delite Cinema: Asaf Ali Road",
+                "address": "Opp LNJP, Asaf Ali Road Darya Ganj, Near Delhi Stock Exchange, Delhi, NCR 110002, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Fun Cinemas: TDI Mall, Moti Nagar",
+                "address": "Old Natraj Cinema, Near Moti Nagar Metro Station, Delhi, NCR 110015, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "G3S Cinema: Rohini (Newly Renovated)",
+                "address": "Level 2, Sector-11, Rohini, Inside Garg Trade, Delhi, NCR 110085, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "INOX: Insignia At Epicuria, Nehru Place",
+                "address": "Lower Ground Floor, Epicuria, TDI South Bridge, Nehru Place Metro Station, PD Area, Delhi, NCR 110019, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "city": "Bengaluru",
+        "sub_region": [],
+        "theaters":[
+            {
+                "theater_name": "Brundha 4K Dolby Atmos: Hongasandra DMart",
+                "address": "Beside D Mart and Jockey Factory, Kodichikkanahalli Main Road, SR Naidu Layout, Hongasandra, Bengaluru, Karnataka 560068, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Cauvery Digital 4k Cinema: Sankey Road",
+                "address": "No-8/1, Sri.T.Chowdiah Road, Sankey Road, Opposite Palace Grounds, Bengaluru, Karnataka 560052, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Cinephile HSR Layout: PNR Felicity Mall Haralur Rd",
+                "address": "No.102, 2B, Haralur Main Road, Bengaluru, Karnataka 560102, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Gopalan Cinemas: Arcade Mall, Mysore Road",
+                "address": "Arcade Mall, Rajarajeshwari Nagar, Opposite The Club Mysore Road, Bengaluru, Karnataka 560098, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "INOX Lido: Off MG Road, Ulsoor",
+                "address": "2nd Floor - Lido Mall, Swamy Vivekananda Road, Halasuru, Next to Hyatt Hotel, Bengaluru, Karnataka 560008, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "city": "Hyderabad",
+        "sub_region": [],
+        "theaters":[
+            {
+                "theater_name": "AAA Cinemas: Ameerpet",
+                "address": "Asian Allu Arjun Cinemas, Satyam Theatre Road, X Road Kumar Basti, Ameerpet, Hyderabad, Telangana 500082, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "AMB Cinemas: Gachibowli",
+                "address": "Sarath City Capital Mall, Forest Dept Colony, Kondapur, Gachibowli - Miyapur Road, White Field Road, Opposite Mahindra Showroom, Hyderabad, Telangana 500084, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Asian Cinemart: RC Puram",
+                "address": "Sy. No. 101AA, 101 E, 105 E, Ramchandra Puram, Hyderabad, Telangana 500133, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "BVK Multiplex Vijayalakshmi: LB Nagar",
+                "address": "Gunti Jangaiah Nagar, LB Nagar, Raghavendra Nagar Colony, Opposite Bank Of India, Hyderabad, Telangana 500074, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "INOX: Ashoka One Mall, Kukatpally Y Junction",
+                "address": "INOX Leisure Ltd,3rd Floor, Ashoka One Mall, Kukatpally Y-Junction, Hyderabad, Telangana 500072, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "city": "Chandigarh",
+        "sub_region": [],
+        "theaters":[
+            {
+                "theater_name": "Cinepolis: Jagat Mall, Chandigarh",
+                "address": "Plot No 32, TDI Mall, Sector 17 A, Chandigarh, Punjab 160017, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Fun Cinemas: Republic Mall, Chandigarh",
+                "address": "Dhillon Complex, Mani Majra, Chandigarh, Chandigarh 160101, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "INOX: NH22 Mall, Amravati Enclave, Panchkula",
+                "address": "Amravati, Enclave, Chandigarh, Chandigarh 110065, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Rajhans Cinemas: Panchkula",
+                "address": "Hi5 Mall, Sector 5, Opposite KC Theater, Beside Punjab National Bank, Panchkula, Chandigarh, Punjab 134109, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Cinepolis: Bestech Square, Mohali",
+                "address": "4th Floor, Bestech, Square Mall, Plot No-1, Industrial Area, 9 Focal Point, Sector 66, Sahibzada Ajit Singh Nagar, Mohali, Punjab 160062, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "city": "Chennai",
+        "sub_region": [],
+        "theaters":[
+            {
+                "theater_name": "AGS Cinemas OMR: Navlur",
+                "address": "Vivira Mall, 5th Floor, Navalur, Old Mahabalipuram Road, Near ETA Techno Park Entrance, Chennai, Tamil Nadu 603103, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "AGS Cinemas: Maduravoyal",
+                "address": "No 3/47, Alapakkam Main Road, Subramaniapuram, Pallavan Nagar, Chennai, Tamil Nadu 600095, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+                "address": "BSR Mall, Thoraipakkam, Seevaram, Oggiyamduraipakkam, Chennai, Tamil Nadu 600097, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "MAYAJAAL Multiplex: ECR, Chennai",
+                "address": "No. 34/1, East Coast Road, Kanathur, Near Toll Plaza, Chennai, Tamil Nadu 603112, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "PVR: Ampa Mall, Nelson Manickam Road",
+                "address": "4th Floor, Ampa Skywalk Mall, Nelson Manickam Road, Aminjikarai, Chennai, Tamil Nadu 600029, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "city": "Pune",
+        "sub_region": [],
+        "theaters":[
+            {
+                "theater_name": "Abhiruchi City Pride: Sinhagad Road",
+                "address": "Near Flyover, Sinhagad Road, Vadgaon Budruk, Pune, Maharashtra 411041, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Alka Cinema: Pune",
+                "address": "Survey No 8/1, LAL Bahadur Shastri Road, Navi Peth-Sadashiv Peth, Pune, Maharashtra 411030, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Bollywood Multiplex: Kharadi",
+                "address": "Old Mundhwa Road, Sector Number 3, Maruti Nagar, Kharadi, Wadgaon Sheri Bypass, Pune, Maharashtra 411014, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Cinepolis: Nexus WESTEND Mall Aundh, Pune",
+                "address": "5, Gurukul Park Road, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411007, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "City Pride: Mangala Cinema",
+                "address": "111, Behind Pune Muncipal Corporation Building, Shivaji Road, Shivaji Nagar, Pune, Maharashtra 411005, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "city": "Kolkata",
+        "sub_region": [],
+        "theaters":[
+            {
+                "theater_name": "Ajanta Cinema: Behala",
+                "address": "No.30, Diamond Harbour Road, Barabagan, Naskarpur, Behala, Kolkata, West Bengal 700038, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Arti Cinema: Suncity Mall, Barasat",
+                "address": "Champadali, Barasat, Barasat, West Bengal 700124, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Asoka Cinema: Behala",
+                "address": "No. 905/2, Diamond Harbour Road, Arcadia, Behala, Kolkata, West Bengal 700034, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Basusree Cinema: Kolkata",
+                "address": "102, S. P. Mukherjee Road, Near Jatin Das Metro Station, Kolkata, West Bengal 700026, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Elora Multiplex: Champahati",
+                "address": "Baruipur - Champahati Road, Opposite State Bank of India, Kolkata, West Bengal 743330, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "city": "Kochi",
+        "sub_region": [],
+        "theaters":[
+            {
+                "theater_name": "Cinepolis: Centre Square Mall, Kochi",
+                "address": "6th floor, M.G.Rroad, Ernakulam, Near Abad Plaza Hotel, Kochi, Kerala 682035, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "PVR: Forum Mall, Kochi",
+                "address": "3rd Floor, Forum Mall, NH-47, Vytilla Aroor Bypass, Near - Kundannur Junction, Maradu, Kochi, Kerala 682304, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Sridar: Marine Drive, Kochi",
+                "address": "Marine Drive, Shanmugham Road, Opposite Canara Bank, Kochi, Kerala 682035, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "PVR: Oberon Mall, Kochi",
+                "address": "Survey no. 154/8.1, 8.3, 9A1, 9A2, 9B, NH Bypass, Edapally Junction, Ernakulam, Near Wildcraft, Kochi, Kerala 682024, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            },
+            {
+                "theater_name": "Elora Multiplex: Champahati",
+                "address": "Baruipur - Champahati Road, Opposite State Bank of India, Kolkata, West Bengal 743330, India",
+                "screens": [
+                    {
+                        "screen_name": "S1",
+                        "language": "Hindi",
+                        "format": "2D"
+                    },
+                    {
+                        "screen_name": "S2",
+                        "language": "English",
+                        "format": "MX4D 3D"
+                    },
+                    {
+                        "screen_name": "S3",
+                        "language": "English",
+                        "format": "IMAX 3D"
+                    }
+                ]
+            }
+        ]
+    }
+]
