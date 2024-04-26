@@ -17,5 +17,5 @@ jobs:
           java-version: '21'
       - name: Build with Maven
         run: mvn -B package --file pom.xml
-      # - name: Execute jar file
-      #   run: sudo kill -9 `sudo lsof -t -i:80` & sudo java -jar /home/ubuntu/actions-runner/_work/spring-boot-public-and-private-chat/spring-boot-public-and-private-chat/target/learn-websocket-0.0.1-SNAPSHOT.jar
+      - name: Execute jar file
+        run: sudo java -jar /home/ubuntu/actions-runner/_work/spring-boot-public-and-private-chat/spring-boot-public-and-private-chat/target/learn-websocket-0.0.1-SNAPSHOT.jar
