@@ -18,4 +18,12 @@ jobs:
       - name: Build with Maven
         run: mvn -B package --file pom.xml
       - name: Execute jar file
-        run: sudo kill -9 `sudo lsof -t -i:8080` & sudo java -jar /home/ubuntu/actions-runner/_work/spring-boot-public-and-private-chat/spring-boot-public-and-private-chat/target/learn-websocket-0.0.1-SNAPSHOT.jar
+        # run: sudo kill -9 `sudo lsof -t -i:8080` & sudo java -jar /home/ubuntu/actions-runner/_work/spring-boot-public-and-private-chat/spring-boot-public-and-private-chat/target/learn-websocket-0.0.1-SNAPSHOT.jar
+        with:
+          script: |
+            # Find and kill the existing Java process
+            existing_pid=$(sudo lsof -t -i:8080)  # Change 8080 to your application's port
+            if [ ! -z "$existing_pid" ]; then
+              echo "Stopping existing instance of the application..."
+              sudo kill -9 $existing_pid
+            fi
