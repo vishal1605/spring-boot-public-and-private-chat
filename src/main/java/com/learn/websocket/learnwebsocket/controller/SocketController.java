@@ -27,7 +27,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://7929-2409-40c0-7a-19da-90a6-d923-58d4-2046.ngrok-free.app")
 public class SocketController {
 
     @Autowired
