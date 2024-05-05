@@ -156,6 +156,21 @@ public class SocketController {
         }
 
     }
+
+    @GetMapping("/cli-dummy-url")
+    public Map<String, Object> cliDummyUrl() {
+        try {
+            Map<String, Object> map = new HashMap<>();
+            map.put("name", "Alex");
+            map.put("email", "ajordanson0@usa.gov");
+            map.put("password", "1232141241");
+            map.put("age", 12);
+            return map;
+        } catch (Exception e) {
+            return null;
+        }
+
+    }
 //////////////////////////////////////////////////////////DUMMY URL/////////////////////////////////////////////////////////
     
     
